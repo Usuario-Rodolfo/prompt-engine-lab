@@ -1,0 +1,23 @@
+{
+  "name": "prompt-engine-lab",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Integração profissional com a API OpenAI para testes, automações e engenharia de prompts em ambiente DevOps.",
+  "main": "test-openai.js",
+  "scripts": {
+    "start": "node test-openai.js",
+    "test": "echo \"No tests specified\" && exit 0",
+    "dev": "nodemon test-openai.js"
+  },
+  "keywords": ["openai", "devops", "automation", "prompt-engineering"],
+  "author": "Usuario-Rodolfo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "openai": "^6.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
+
