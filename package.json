@@ -1,0 +1,15 @@
+{
+  "name": "prompt-engine-lab",
+  "version": "1.0.0",
+  "description": "Integração profissional com a API OpenAI para testes, automações e engenharia de prompts em ambiente DevOps.",
+  "main": "test-openai.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^6.4.0"
+  }
+}
