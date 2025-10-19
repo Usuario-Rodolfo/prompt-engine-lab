@@ -1,10 +1,10 @@
 # Prompt Engineering Lab
 
-![Build Status](https://img.shields.io/github/workflow/status/Usuario-Rodolfo/prompt-engine-lab/CI?style=flat-square)
-![Version](https://img.shields.io/github/v/release/Usuario-Rodolfo/prompt-engine-lab?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
 ![License](https://img.shields.io/github/license/Usuario-Rodolfo/prompt-engine-lab?style=flat-square)
 
-Este projeto, chamado **"Prompt Engineering Lab"**, é um laboratório profissional voltado para integração com a **API OpenAI**. O objetivo principal é oferecer um ambiente seguro e organizado para testes, automações, engenharia de prompts e desenvolvimento DevOps, permitindo experiências práticas com modelos GPT de forma rápida e eficiente.
+Este projeto, chamado **"Prompt Engineering Lab"**, é um laboratório profissional voltado para integração com a **API OpenAI**.  
+O objetivo principal é oferecer um ambiente seguro e organizado para testes, automações, engenharia de prompts e desenvolvimento DevOps, permitindo experiências práticas com modelos GPT de forma rápida e eficiente.
 
 ## Funcionalidades
 - Teste e validação da API OpenAI utilizando Node.js.
