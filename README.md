@@ -3,7 +3,7 @@
 ![Versão](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
 ![Licença](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
-![OpenAI](https://img.shields.io/badge/🤖-OpenAI-blue?style=flat-square)
+![OpenAI](https://img.shields.io/badge/API-OpenAI-blue?style=flat-square)
 
 ---
 
